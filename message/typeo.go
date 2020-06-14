@@ -1,4 +1,4 @@
-package logicial
+package message
 
 import (
 	"time"
